@@ -121,6 +121,9 @@ Fred is based in Denville, New Jersey (45 minutes from Manhattan). He performs t
 - [NYC Mentalist](https://fredberthelot.com/nyc-mentalist)
   New York City-focused page for corporate and private event searches.
 
+- [Phamra Events](https://fredberthelot.com/pharmaceutical-entertainment)
+  Interactive Entertainment for Pharmaceutical Events.
+
 - [Blog](https://fredberthelot.com/blog)
   Articles related to corporate entertainment, mentalism, event engagement, memory, and audience experience.
 
